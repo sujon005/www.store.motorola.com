@@ -1,2 +1,1 @@
-# www.store.motorola.com
-Subdomain Takeover
+www.store.motorola.com
